@@ -11,9 +11,7 @@ import com.cg.freelanceapp.dto.FreelancerListDTO;
 import com.cg.freelanceapp.entities.Freelancer;
 
 /**************************************************************************************
- * @author Aditya 
- * Description: This is the DAO Interface for Freelancer module. 
- * Created Date: 19 April, 2021 
+ * Description: This is the DAO Interface for Freelancer module.
  * Version : v1.0.0
  *************************************************************************************/
 @Repository
@@ -21,7 +19,7 @@ public interface IFreelancerDao extends JpaRepository<Freelancer, Long> {
 
 	/*******************************************************************************************
 	 * Method:      getCurrentSeriesId
-	 * @param       none
+//	 * @param       none
 	 * @return      Long
 	 * Description: This method returns the current value of primary key from the sequence.
 	 *******************************************************************************************/

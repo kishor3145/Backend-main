@@ -31,9 +31,7 @@ import com.cg.freelanceapp.service.IJobApplicationService;
 import io.swagger.annotations.ApiOperation;
 
 /**************************************************************************************
- * @author Siddhesh
- * Description: This is the rest controller class for JobApplication module. 
- * Created Date: 26 April, 2021 
+ * Description: This is the rest controller class for JobApplication module.
  * Version : v1.0.0
  *************************************************************************************/
 
@@ -48,7 +46,7 @@ public class JobApplicationController {
 	/*****************************************************************************************
 	 * Method      : applyToJob      
 	 * @param        jobApplicationDto
-	 * @throws       The method throws different exceptions based on improperly entered fields
+//	 * @throws       The method throws different exceptions based on improperly entered fields
 	 * @return       Response Entity of Object type
 	 * Description : This method creates a new Job Application
 	 * @postmapping: Post mapping requests a body from the user
@@ -81,7 +79,7 @@ public class JobApplicationController {
 
 	/************************************************************************************
 	 * Method      : findById       
-	 * @param        Id
+//	 * @param        Id
 	 * @throws       InvalidJobApplicationException
 	 * @return       JobApplication Object
 	 * Description : This method fetches a Job Application based on the unique id

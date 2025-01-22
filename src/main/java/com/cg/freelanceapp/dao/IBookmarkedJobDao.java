@@ -25,7 +25,7 @@ public interface IBookmarkedJobDao extends JpaRepository<BookmarkedJob,Long>
 	
 	/*******************************************************************************************
 	 * Method:      getCurrentSeriesId
-	 * @param       none
+//	 * @param       none
 	 * @return      Long
 	 * Description: This method returns the current value of primary key from the sequence.
 	 *******************************************************************************************/

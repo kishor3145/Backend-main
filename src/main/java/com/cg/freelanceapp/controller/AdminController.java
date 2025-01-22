@@ -27,9 +27,8 @@ import com.cg.freelanceapp.service.IAdminService;
 
 /**
  * 
- * @author    Akash Sunil Kumar
+ * @author   kishor darkunde
  * Description: This class is used as the controller for the Admin module 
- * Created Date: 18 April, 2021 
  * Version : v1.0.0
  */
 @RestController
@@ -42,7 +41,7 @@ public class AdminController {
 
 	/**
 	 * 
-	 * @param        admin
+//	 * @param        admin
 	 * @return       Response Entity of Object type
 	 * Description : This method creates a new entry for an admin.
 	 * @PostMapping: maps HTTP POST requests onto specific handler methods.

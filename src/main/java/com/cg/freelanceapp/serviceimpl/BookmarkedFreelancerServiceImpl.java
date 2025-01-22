@@ -18,9 +18,7 @@ import com.cg.freelanceapp.exceptions.InvalidBookmarkedFreelancerException;
 import com.cg.freelanceapp.service.IBookmarkedFreelancerService;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Service Implementation for BookmarkedFreelancer module.	 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Implementation for BookmarkedFreelancer module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

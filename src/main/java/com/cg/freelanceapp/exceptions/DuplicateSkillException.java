@@ -1,9 +1,7 @@
 package com.cg.freelanceapp.exceptions;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : Invalid Skill Exception class 
- * Created Date: 22 April, 2021 
+ * Description : Invalid Skill Exception class
  * Version     : v1.0.0
  *************************************************************************************/
 public class DuplicateSkillException extends RuntimeException {

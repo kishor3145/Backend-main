@@ -4,9 +4,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotEmpty;
 
 /**************************************************************************************
- * @author       Amruth N
- * Description : This is the DTO class for Skill module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the DTO class for Skill module.
  * Version     : v1.0.0
  *************************************************************************************/
 public class SkillDTO {

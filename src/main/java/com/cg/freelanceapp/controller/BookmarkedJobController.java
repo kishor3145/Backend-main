@@ -36,7 +36,7 @@ public class BookmarkedJobController {
 	 * 
 	 * Method     : createBookmark
 	 * @param       bookmarkedjobdto
-	 * @throws      BookmarkedJobValidationException
+//	 * @throws      BookmarkedJobValidationException
 	 * @return      ResponseEntity
 	 * Description: This method request for the data, checks validation of the data and creates bookmark for job.
 	 * @PostMapping: This annotation handles with http post requests matched with the given url expression.  

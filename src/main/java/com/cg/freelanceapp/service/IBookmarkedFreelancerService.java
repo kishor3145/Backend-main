@@ -9,9 +9,7 @@ import com.cg.freelanceapp.dto.BookmarkedFreelancerListDTO;
 import com.cg.freelanceapp.entities.BookmarkedFreelancer;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Service Interface for BookmarkedFreelancer module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Interface for BookmarkedFreelancer module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

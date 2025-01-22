@@ -7,9 +7,7 @@ import com.cg.freelanceapp.entities.SkillExperience;
 
 
 /**************************************************************************************
- * @author       Amruth N 
- * Description : This is the Service Interface for SkillExperience module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Interface for SkillExperience module.
  * Version     : v1.0.0
  *************************************************************************************/
 public interface ISkillExperienceService {

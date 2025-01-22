@@ -3,9 +3,7 @@ package com.cg.freelanceapp.dto;
 import javax.validation.constraints.NotEmpty;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the DTO class for Recruiter module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the DTO class for Recruiter module.
  * Version     : v1.0.0
  *************************************************************************************/
 public class RecruiterDTO {

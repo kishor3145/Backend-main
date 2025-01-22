@@ -1,9 +1,7 @@
 package com.cg.freelanceapp.exceptions;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : Invalid Recruiter Exception class. 
- * Created Date: 22 April, 2021 
+ * Description : Invalid Recruiter Exception class.
  * Version     : v1.0.0
  *************************************************************************************/
 public class InvalidRecruiterException extends RuntimeException {

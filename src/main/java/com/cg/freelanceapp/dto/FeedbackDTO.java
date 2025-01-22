@@ -1,9 +1,7 @@
 package com.cg.freelanceapp.dto;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the DTO class for Feedback module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the DTO class for Feedback module.
  * Version     : v1.0.0
  *************************************************************************************/
 public class FeedbackDTO {

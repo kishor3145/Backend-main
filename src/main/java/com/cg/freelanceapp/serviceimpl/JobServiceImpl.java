@@ -17,7 +17,6 @@ import com.cg.freelanceapp.service.IJobService;
 
 /**
  * 
- * @author      Akash Sunil Kumar 
  * Description: This is a service implementation class for Job Entity
  *
  */

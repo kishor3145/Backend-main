@@ -20,9 +20,7 @@ import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Entity class for BookmarkedJob module. 
- * Created Date: 18 April, 2021 
+ * Description : This is the Entity class for BookmarkedJob module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Entity

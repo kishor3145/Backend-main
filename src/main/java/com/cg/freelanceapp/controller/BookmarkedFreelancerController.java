@@ -27,9 +27,8 @@ import com.cg.freelanceapp.exceptions.JobPortalValidationException;
 import com.cg.freelanceapp.service.IBookmarkedFreelancerService;
 
 /**************************************************************************************
- * @author Vishnuvardhan 
+ * @author kishor
  * Description: This is the rest controller class for BookmarkedFreelancer module. 
- * Created Date: 20 April, 2021 
  * Version : v1.0.0
  *************************************************************************************/
 @RestController
@@ -43,7 +42,7 @@ public class BookmarkedFreelancerController {
 	/*****************************************************************************************
 	 * Method      : createBookmark       
 	 * @param        bookmarkedFreelancerDto
-	 * @throws       The method throws different exceptions based on improperly entered fields
+//	 * @throws       The method throws different exceptions based on improperly entered fields
 	 * @return       Response Entity of Object type
 	 * Description : This method creates a new Bookmark of a freelancer.
 	 * @postmapping: Post mapping requests a body from the user
@@ -92,7 +91,7 @@ public class BookmarkedFreelancerController {
 
 	/************************************************************************************
 	 * Method      : getById       
-	 * @param        Id
+//	 * @param        Id
 	 * @return       Response Entity of Object type
 	 * Description : This method fetches a Bookmarked Freelancer based on the unique id
 	 * @getmapping : Get mapping expects a PathVariable to be passed 

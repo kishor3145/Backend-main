@@ -14,9 +14,7 @@ import com.cg.freelanceapp.exceptions.InvalidSkillException;
 import com.cg.freelanceapp.service.ISkillService;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Service Implementation for Skill module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Implementation for Skill module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

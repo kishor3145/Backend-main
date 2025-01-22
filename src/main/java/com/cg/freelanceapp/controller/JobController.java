@@ -20,9 +20,7 @@ import com.cg.freelanceapp.service.IJobService;
 
 /**
  * 
- * @author   Akash Sunil Kumar
- * Description: This class is the controller for the job module 
- * Created Date: 18 April, 2021 
+ * Description: This class is the controller for the job module
  * Version : v1.0.0
  */
 
@@ -36,7 +34,7 @@ public class JobController {
 
 	/**
 	 * 
-	 * @param        job
+//	 * @param        job
 	 * @return       Response Entity of String type
 	 * Description : This method closes the job module.
 	 * @PostMapping: Annotation for mapping HTTP POST requests onto specific handler methods.

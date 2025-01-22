@@ -21,9 +21,7 @@ import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the BookmarkedFreelancer class for Admin module. 
- * Created Date: 18 April, 2021 
+ * Description : This is the BookmarkedFreelancer class for Admin module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Entity

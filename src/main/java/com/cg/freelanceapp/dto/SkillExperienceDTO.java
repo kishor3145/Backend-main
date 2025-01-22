@@ -3,9 +3,7 @@ package com.cg.freelanceapp.dto;
 import javax.validation.constraints.NotNull;
 
 /**************************************************************************************
- * @author       Amruth N
- * Description : This is the DTO class for SkillExperience module. 
- * Created Date: 22 April, 2021 
+ * Description : This is the DTO class for SkillExperience module.
  * Version     : v1.0.0
  *************************************************************************************/
 public class SkillExperienceDTO {

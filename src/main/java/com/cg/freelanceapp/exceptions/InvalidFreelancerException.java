@@ -1,9 +1,7 @@
 package com.cg.freelanceapp.exceptions;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : Invalid Freelancer Exception class. 
- * Created Date: 18 April, 2021 
+ * Description : Invalid Freelancer Exception class.
  * Version     : v1.0.0
  *************************************************************************************/
 public class InvalidFreelancerException extends RuntimeException {

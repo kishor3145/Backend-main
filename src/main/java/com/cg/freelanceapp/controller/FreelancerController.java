@@ -26,8 +26,7 @@ import com.cg.freelanceapp.exceptions.JobPortalValidationException;
 import com.cg.freelanceapp.service.IFreelancerService;
 
 /**************************************************************************************
- * @author Aditya
- * Description: Rest controller class for Freelancer module. 
+ * Description: Rest controller class for Freelancer module.
  *************************************************************************************/
 @RestController
 @RequestMapping("/freelancer")
@@ -69,7 +68,7 @@ public class FreelancerController {
 	
 	/*****************************************************************************************
 	 * Method      : getById       
-	 * @param        Id
+//	 * @param        Id
 	 * @return       Freelancer object
 	 * Description : This method fetches a freelancer based on the unique id.
 	 * @getmapping : Get mapping expects a PathVariable to be passed 

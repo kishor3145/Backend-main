@@ -14,9 +14,7 @@ import com.cg.freelanceapp.exceptions.InvalidRecruiterException;
 import com.cg.freelanceapp.service.IRecruiterService;
 
 /**************************************************************************************
- * @author       Aditya 
- * Description : This is the Service Implementation for Recruiter module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Implementation for Recruiter module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

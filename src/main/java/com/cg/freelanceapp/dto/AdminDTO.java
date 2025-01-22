@@ -4,7 +4,6 @@ import javax.validation.constraints.NotEmpty;
 
 /**
  * 
- * @author      Vishnuvardhan Reddy
  * Description: This is the DTO class for Admin module
  *
  */

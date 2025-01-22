@@ -17,9 +17,7 @@ import com.cg.freelanceapp.exceptions.InvalidJobException;
 import com.cg.freelanceapp.service.IJobApplicationService;
 
 /**************************************************************************************
- * @author       Siddhesh
- * Description : This is the Service Implementation for JobApplication module. 
- * Created Date: 26 April, 2021 
+ * Description : This is the Service Implementation for JobApplication module.
  * Version     : v1.0.0
  *************************************************************************************/
 

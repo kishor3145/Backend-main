@@ -7,9 +7,7 @@ import org.springframework.stereotype.Repository;
 import com.cg.freelanceapp.entities.Skill;
 
 /**************************************************************************************
- * @author Vishnuvardhan 
- * Description: This is the DAO Interface for Skill module. 
- * Created Date: 19 April, 2021 
+ * Description: This is the DAO Interface for Skill module.
  * Version : v1.0.0
  *************************************************************************************/
 @Repository
@@ -33,7 +31,7 @@ public interface ISkillDao extends JpaRepository<Skill, Long> {
 	
 	/*******************************************************************************************
 	 * Method:      getCurrentSeriesId
-	 * @param       none
+//	 * @param       none
 	 * @return      Long
 	 * Description: This method returns the current value of primary key from the sequence.
 	 *******************************************************************************************/

@@ -10,7 +10,7 @@ import com.cg.freelanceapp.entities.Admin;
 public interface IAdminDao extends JpaRepository<Admin, Long> {
 	/*******************************************************************************************
 	 * Method:      getCurrentSeriesId
-	 * @param       none
+//	 * @param       none
 	 * @return      Long
 	 * Description: This method returns the current value of primary key from the sequence.
 	 *******************************************************************************************/

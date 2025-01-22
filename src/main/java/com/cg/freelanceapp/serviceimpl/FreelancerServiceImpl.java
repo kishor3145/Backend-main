@@ -14,9 +14,7 @@ import com.cg.freelanceapp.exceptions.InvalidFreelancerException;
 import com.cg.freelanceapp.service.IFreelancerService;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Service Implementation for Freelancer module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Implementation for Freelancer module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

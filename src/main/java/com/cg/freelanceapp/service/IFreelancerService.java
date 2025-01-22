@@ -11,9 +11,7 @@ import com.cg.freelanceapp.dto.FreelancerListDTO;
 import com.cg.freelanceapp.entities.Freelancer;
 
 /**************************************************************************************
- * @author       Vishnuvardhan 
- * Description : This is the Service Interface for Freelancer module. 
- * Created Date: 21 April, 2021 
+ * Description : This is the Service Interface for Freelancer module.
  * Version     : v1.0.0
  *************************************************************************************/
 @Service

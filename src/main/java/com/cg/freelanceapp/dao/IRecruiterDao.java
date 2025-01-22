@@ -10,9 +10,7 @@ import com.cg.freelanceapp.dto.RecruiterListDTO;
 import com.cg.freelanceapp.entities.Recruiter;
 
 /**************************************************************************************
- * @author Aditya 
- * Description: This is the DAO Interface for Recruiter module. 
- * Created Date: 19 April, 2021 
+ * Description: This is the DAO Interface for Recruiter module.
  * Version : v1.0.0
  *************************************************************************************/
 @Repository
@@ -20,7 +18,7 @@ public interface IRecruiterDao extends JpaRepository<Recruiter, Long> {
 
 	/*******************************************************************************************
 	 * Method:      getCurrentSeriesId
-	 * @param       none
+//	 * @param       none
 	 * @return      Long
 	 * Description: This method returns the current value of primary key from the sequence.
 	 *******************************************************************************************/
